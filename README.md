@@ -156,7 +156,7 @@ npm run dev
 
 ## 🌐 Live Deployment
 
-(Add your deployed link here)
+https://echoapp-six.vercel.app/
 
 ---
 
